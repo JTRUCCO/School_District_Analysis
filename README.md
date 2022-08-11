@@ -9,11 +9,11 @@ There was evadince of academic distonesty from Thomas High School from the 9th g
 # Results: Using bulleted lists and images of DataFrames as support address the following questions.
 ## How is the district summary affected?
 
-        The District summery shows an average math score of 78.99 and a Average reading score of 81.88
+The District summery shows an average math score of 78.99 and a Average reading score of 81.88
     
 ## How is the school summary affected?
     
-    The School summary no longer shows the grades for 9th graders at Thomas High School. The School summery has been updated to reflet the new average reading and math scores. the new percentages are: % passing Math 93.19,% passing reading 97.09, % passing overall 90.63)
+The School summary no longer shows the grades for 9th graders at Thomas High School. The School summery has been updated to reflet the new average reading and math scores. the new percentages are: % passing Math 93.19,% passing reading 97.09, % passing overall 90.63)
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
