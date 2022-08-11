@@ -7,7 +7,7 @@ School District has asked me to review new test scores.
 There was evadince of academic distonesty from Thomas High School from the 9th graders. the purpose of this analysis is to find and remove the false scores then re-run the analysis for the remaining grades (10th,11th,12th) to determine the new passing percentages for reading and math. 
 
 # Results: Using bulleted lists and images of DataFrames as support address the following questions.
-   ## How is the district summary affected?
+## How is the district summary affected?
 
         The District summery shows an average math score of 78.99 and a Average reading score of 81.88
     
@@ -28,7 +28,7 @@ There was evadince of academic distonesty from Thomas High School from the 9th g
         This was not affected.
 
         Did not affect total spending with the buckets 
-        ### Scores by school size
+ ### Scores by school size
 
         The size of the school changed negitivley with the number of students going down as we drop the 9th grade scores 
 
