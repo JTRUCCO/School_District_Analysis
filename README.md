@@ -26,14 +26,14 @@ There was evadince of academic distonesty from Thomas High School from the 9th g
 
         - This was not affected.
 
-Did not affect total spending with the buckets 
- ### Scores by school size
+        - Did not affect total spending with the buckets 
+    - Scores by school size
 
-The size of the school changed negitivley with the number of students going down as we drop the 9th grade scores 
+        - The size of the school changed negitivley with the number of students going down as we drop the 9th grade scores 
 
-### Scores by school type
+    - Scores by school type
 
- Thomas HS is a medium school (1000-1999 students ) this status was not affected. 
+        - Thomas HS is a medium school (1000-1999 students ) this status was not affected. 
 
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
