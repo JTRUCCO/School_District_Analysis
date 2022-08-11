@@ -17,24 +17,24 @@ The School summary no longer shows the grades for 9th graders at Thomas High Sch
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-    Thomas High School is only slightly affected with there scores still being some of the best compred to other schools. 
+Thomas High School is only slightly affected with there scores still being some of the best compred to other schools. 
     
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
         
-        The math scores are 83.41 and reading scores are 83.84
+The math scores are 83.41 and reading scores are 83.84
 ### Scores by school spending
 
-        This was not affected.
+This was not affected.
 
-        Did not affect total spending with the buckets 
+Did not affect total spending with the buckets 
  ### Scores by school size
 
-        The size of the school changed negitivley with the number of students going down as we drop the 9th grade scores 
+The size of the school changed negitivley with the number of students going down as we drop the 9th grade scores 
 
 ### Scores by school type
 
-        Thomas HS is a medium school (1000-1999 students ) this status was not affected. 
+ Thomas HS is a medium school (1000-1999 students ) this status was not affected. 
 
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
