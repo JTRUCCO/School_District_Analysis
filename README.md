@@ -10,6 +10,8 @@ There was evadince of academic distonesty from Thomas High School from the 9th g
 - How is the district summary affected?
 
     - The District summery shows an average math score of 78.99 and a Average reading score of 81.88
+
+![alt text](district_summary_df.png)
     
 - How is the school summary affected?
     
