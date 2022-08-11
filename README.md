@@ -7,25 +7,24 @@ School District has asked me to review new test scores.
 There was evadince of academic distonesty from Thomas High School from the 9th graders. the purpose of this analysis is to find and remove the false scores then re-run the analysis for the remaining grades (10th,11th,12th) to determine the new passing percentages for reading and math. 
 
 # Results: Using bulleted lists and images of DataFrames as support address the following questions.
-## How is the district summary affected?
+- How is the district summary affected?
 
-The District summery shows an average math score of 78.99 and a Average reading score of 81.88
+    - The District summery shows an average math score of 78.99 and a Average reading score of 81.88
     
-## How is the school summary affected?
+- How is the school summary affected?
     
-The School summary no longer shows the grades for 9th graders at Thomas High School. The School summery has been updated to reflet the new average reading and math scores. the new percentages are: % passing Math 93.19,% passing reading 97.09, % passing overall 90.63)
+    - The School summary no longer shows the grades for 9th graders at Thomas High School. The School summery has been updated to reflet the new average reading and math scores. the new percentages are: % passing Math 93.19,% passing reading 97.09, % passing overall 90.63)
 
-## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Thomas High School is only slightly affected with there scores still being some of the best compred to other schools. 
+    - Thomas High School is only slightly affected with there scores still being some of the best compred to other schools. 
     
-## How does replacing the ninth-grade scores affect the following:
-### Math and reading scores by grade
-        
-The math scores are 83.41 and reading scores are 83.84
-### Scores by school spending
+- How does replacing the ninth-grade scores affect the following:
+    - Math and reading scores by grade
+        - The math scores are 83.41 and reading scores are 83.84
+    - Scores by school spending
 
-This was not affected.
+        - This was not affected.
 
 Did not affect total spending with the buckets 
  ### Scores by school size
